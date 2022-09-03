@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ChunxinTang
 - 👀 I’m interested in Environmental data science
-- 🌱 I’m currently learning Data Science and Environmental Chemistry
+- 🌱 I’m currently learning AI Engineering and CEE, My undergrad in Environment and Chemistry
 - 💞️ I’m looking to collaborate on more data related projects
 - 📫 Reach me @Chunxin
 
